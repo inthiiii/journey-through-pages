@@ -1,4 +1,4 @@
-# Journey Through Pages ⚡🦄
+# Journey Through Pages ⚡
 ### *v1.2: The Ethereal Edition*
 
 **Journey Through Pages** is an enterprise-grade, privacy-first Document Intelligence Platform. It runs entirely **offline** on your device using **Local LLMs (Llama 3.2 & Vision)**, bridging the gap between raw AI power and professional productivity.
